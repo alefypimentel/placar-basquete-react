@@ -1,0 +1,34 @@
+.period-time {
+	background: #fff;
+	border-radius: 10px;
+	color: #f00;
+	display: inline-block;
+	font-size: 10em;
+	left: 50%;
+	line-height: 1;
+	margin: 0 auto;
+	padding: 30px 50px;
+	position: absolute;
+	text-align: center;
+	text-align: center;
+	top: 50px;
+	transform: translateX(-50%);
+	width: 30%;
+}
+
+.short-time {
+	background: #fff;
+    border-radius: 5%;
+    bottom: 50px;
+    color: #f00;
+    display: inline-block;
+    font-size: 170px;
+    left: 50%;
+    line-height: 1;
+    margin: 0 auto;
+    padding: 30px;
+    position: absolute;
+    text-align: center;
+    transform: translateX(-50%);
+    width: 15%;
+}

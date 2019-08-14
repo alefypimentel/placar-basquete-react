@@ -1,0 +1,20 @@
+.period {
+	color: #fff;
+    display: inline-block;
+    left: 50%;
+    margin: 0 auto;
+    padding: 30px 20px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: auto;
+}
+
+.text {
+	font-size: 4em;
+}
+
+.num {
+	font-size: 6em;
+}
